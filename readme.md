@@ -98,5 +98,5 @@ git push heroku master
 ```
 git add .
 git commit -m "寫入你做的修改"
-git push heroku master
+git push origin main
 ```
